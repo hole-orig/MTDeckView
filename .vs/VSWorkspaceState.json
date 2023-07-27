@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\src",
+    "\\app\\src\\androidTest",
+    "\\app\\src\\androidTest\\java",
+    "\\app\\src\\androidTest\\java\\com",
+    "\\app\\src\\androidTest\\java\\com\\example",
+    "\\app\\src\\androidTest\\java\\com\\example\\mtdview_stable",
+    "\\app\\src\\main",
+    "\\app\\src\\main\\res",
+    "\\app\\src\\main\\res\\drawable",
+    "\\app\\src\\test"
+  ],
+  "SelectedNode": "\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml",
+  "PreviewInSolutionExplorer": false
+}

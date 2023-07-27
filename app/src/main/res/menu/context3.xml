@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/context_t3"
+        android:title="@string/title3"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/context_c"
+        android:title="@string/close"
+        app:showAsAction="never" />
+</menu>

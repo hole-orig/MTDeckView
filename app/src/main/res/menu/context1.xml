@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+            android:id="@+id/context_t1"
+            android:title="@string/title1"
+            app:showAsAction="never" />
+
+    <item
+            android:id="@+id/context_i"
+            android:title="@string/open_innerapp"
+            app:showAsAction="never" />
+
+    <item
+            android:id="@+id/context_d"
+            android:title="@string/dl"
+            app:showAsAction="never" />
+
+    <item
+            android:id="@+id/context_c"
+            android:title="@string/close"
+            app:showAsAction="never" />
+
+</menu>

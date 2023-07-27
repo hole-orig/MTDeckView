@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MTDeckView Stable</string>
+    <string name="reload">リロードする</string>
+    <string name="help">ヘルプ</string>string>
+    <string name="home">アカウントのホーム</string>
+    <string name="about">このアプリについて</string>
+    <string name="finish">終了</string>
+    <string name="sub_finish">サブ画面を閉じる</string>
+    <string name="other">他のアプリで表示</string>
+    <string name="dl">ダウンロード</string>
+    <string name="download_succesed">ダウンロード成功</string>
+    <string name="download_failed">ダウンロード失敗</string>
+    <string name="open_innerapp">アプリ内部で開く</string>
+    <!--    <string name="open_outerapp">別アプリで開く"</string>-->
+    <string name="open_outerapp">標準のブラウザで開く"</string>
+    <string name="close">戻る</string>
+    <string name="title1">画像へのリンクです</string>
+    <string name="title2">Tweetまたは外部へのリンクです</string>
+    <string name="title3">無効なリンクです</string>
+    <string name="button">DLボタン</string>
+</resources>

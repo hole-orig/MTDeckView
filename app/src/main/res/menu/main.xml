@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+         android:id="@+id/menuitemm1"
+         android:orderInCategory="100"
+         android:title="@string/reload" />
+
+    <item
+        android:id="@+id/menuitemm2"
+        android:orderInCategory="200"
+        android:title="@string/help" />
+
+    <item
+        android:id="@+id/menuitemm3"
+        android:title="@string/about"
+        android:orderInCategory="300" />
+
+    <item
+        android:id="@+id/menuitemm4"
+        android:title="@string/finish"
+        android:orderInCategory="400" />
+
+</menu>
